@@ -18,7 +18,7 @@
 </script>
 
 {#each $FeedbackStore as fb (fb.id)}
-<div in:scale out:fade="{{ duration: 500 }}">
+<div in:scale out:fade="{{ duration: 300 }}">
   <FeedbackItem item={fb} />
 </div>
 {/each}

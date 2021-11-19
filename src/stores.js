@@ -16,4 +16,24 @@ export const FeedbackStore = writable([
     rating: 8,
     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
   },
+  {
+    id: 4,
+    rating: 7,
+    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+  },
+  {
+    id: 5,
+    rating: 6,
+    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+  },
+  {
+    id: 6,
+    rating: 9,
+    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+  },
+  {
+    id: 7,
+    rating: 8,
+    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+  },
 ])
