@@ -15,4 +15,7 @@ npm start
 
 # Build for production
 npm run build
+
+# Publish to gh-pages
+node ./gh-pages.js
 ```
